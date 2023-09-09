@@ -1,0 +1,47 @@
+{   
+    "ID": 0,
+    "ip": "http://thingspeak_adaptor",
+    "port": 8080, 
+    "function": "addTopic",
+    
+    "broker": {},
+
+    "users": [
+
+        {
+            "userID": 0,
+            "greenHouses": [
+
+                {
+                    "greenHouseID": 0,
+                    "channelID": 2091049,
+                    "KEY": "J50M27K8VSFLULLK",
+                    "temperature": "&field1={}",
+                    "humidity": "&field2={}",
+                    "weather": "&field3={}",
+                    "irrigation": "&field4={}"
+                }
+            ]
+        },
+
+        {   
+            "userID": 1,
+            "greenHouses": [
+
+                {
+                    "greenHouseID": 0,
+                    "channelID": 2229831,
+                    "KEY": "3Y4VD8DM3HWS67HU",
+                    "temperature": "&field1={}",
+                    "humidity": "&field2={}",
+                    "weather": "&field3={}",
+                    "irrigation": "&field4={}"
+                }
+
+            ]
+        }
+    ],
+
+    "topics": []
+}
+            

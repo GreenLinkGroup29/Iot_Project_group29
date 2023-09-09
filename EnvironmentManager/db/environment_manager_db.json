@@ -1,0 +1,14 @@
+{   
+    "ID": 0,
+    "ip": "http://environment_manager",
+    "port": 8080, 
+    "function": "regStrategy",
+    
+    "broker": {},
+
+    "actual_temperature": [],
+
+    "actual_humidity": [],
+
+    "strategies": []
+}

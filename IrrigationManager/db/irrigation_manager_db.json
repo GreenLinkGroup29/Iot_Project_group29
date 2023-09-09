@@ -1,0 +1,10 @@
+{   
+    "ID": 0,
+    "ip": "http://irrigation_manager",
+    "port": 8080, 
+    "function": "regStrategy",
+    
+    "broker": {},
+
+    "strategies": []
+}

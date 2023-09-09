@@ -1,0 +1,76 @@
+{ 
+   "ip": "http://resource_catalog",
+   "port": 8080, 
+   
+   "managers": 
+   {
+      "irrigation": [],
+      "environment": [],
+      "weather": []
+   },
+   "thingspeak_adaptors": [],
+   "webpages": [],
+   "thingspeak": {},
+   "weather_API": {},
+   "broker": {},
+   "registered_users": [
+      {
+         "userID": 0,
+         "greenHouses": [
+            {
+               "greenHouseID": 0
+            }
+         ]
+      },
+      {
+         "userID": 1,
+         "greenHouses": [
+            {
+               "greenHouseID": 0
+            }
+         ]
+      }
+   ],
+   "users": [
+      {
+         "userName": "Matteo_Impieri",
+         "password": "12345678",
+         "super_User": false,
+         "id": 0,
+         "name": "Matteo",
+         "surname": "Impieri",
+         "email_addresses": "Matteo_Impieri@P4IOT.com",
+         "country": "Italy",
+         "greenHouses": [
+            {
+               "greenHouseName": "My_farm1",
+               "greenHouseID": 0,
+               "city": "Torino",
+               "deviceConnectors": [],
+               "strategies":
+               {
+                  "irrigation": 
+                  {
+                     "strat":[],
+                     "active": false,
+                     "timestamp": -1
+                  },
+                  "environment": 
+                  {
+                     "strat": {},
+                     "active": false,
+                     "timestamp": -1
+                  },
+                  "weather":
+                  {
+                     "strat": {},
+                     "active": false,
+                     "timestamp": -1
+                  }
+               }
+            }
+         ],
+         "timestamp": 9999999999.0798957
+      }
+   ]
+}
