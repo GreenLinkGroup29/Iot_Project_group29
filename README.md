@@ -91,7 +91,7 @@ For detailed information about the different web pages, strategy management and 
 
 The project shows the following limitations which are correlated to the utilisation of free softwares or free version's softwares:
 
--‌ The free version of Thingspeak allows the creation of just 4 channels, with 4 fields each, limitating the number of couples user-greenhouse to 4 and the number of graphs per each of them to also 4. 
+-‌ The free version of Thingspeak allows the creation of just 4 channels, with 8 fields each, limitating the number of couples user-greenhouse to 4. 
 
 -‌ The Accuweather API that is used to receive real time data about the greenhouses' cities offers a very limited number of available calls for the same API key, therefore it should be changed frequently.
 
